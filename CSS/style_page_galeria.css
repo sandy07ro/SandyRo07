@@ -1,0 +1,277 @@
+@import url("../webfonts/BebasNeue_Regular/stylesheet.css");
+@import url("../webfonts/CaviarDreams/stylesheet.css");
+@import url("../webfonts/Garet_Book/stylesheet.css");
+@import url("../webfonts/Garet_Heavy/stylesheet.css");
+@import url("../webfonts/BebasNeue_Regular/stylesheet.css");
+@import url("../webfonts/BebasNeue_Regular/stylesheet.css");
+@import url("../webfonts/BebasNeue_Regular/stylesheet.css");
+
+
+
+
+
+
+*{
+	margin-top: 5px;
+	margin-right: 5px;
+	margin-left: 5px;
+	margin-bottom: 5px;
+	padding: 0;
+}
+textarea {
+	width: 100px;
+}
+#fmensaje {
+	width: 100%;
+	height: 51px;
+	background-color: #F0FFFF;
+	color: #2C4744;
+
+}
+
+
+
+header, nav, main, footer{
+    width: 100%;
+    margin: 0 auto;
+    color:#F0FFFF;
+    padding: 30px;
+}
+header{
+	height: 30px;
+	background-color: #9BC1BC;
+	text-align: center;
+}
+nav{
+	height: 30px;
+	background-color: #9bc1bc;
+	text-align: center;
+	font-family: CaviarDreams;
+	color: #C83032;
+}
+ul li a {
+}
+ul li a {
+	color: #355551;
+	font-family: CaviarDreams;
+}
+
+
+main{
+    height: auto;
+    background-color:azure;
+    text-align: center;
+}
+footer{
+    height: 80px;
+    background-color: #9BC1BC;
+    text-align: center;
+}
+section{
+    width: 80%;
+    height:auto;
+    background-color: #9bc1bc;
+    margin: 20px;
+    display: inline-block;
+    padding: 30px;
+}
+a{
+     text-decoration: none;
+    font-weight: bold;
+    margin: 0 10px;
+    display: inline-block;
+    width: 70px;
+    border: 2px solid cadetblue;
+    background-color:#F0FFFF;
+}
+a:link{
+    color: #3E645F; 
+    padding: 3px;
+} 
+a:visited{
+    color: #9BC1BC;
+    
+}
+body nav ul {
+	font-family: CaviarDreams;
+	
+}
+a:hover{
+    color: #ED6A5A;
+	font-size: 20px
+}
+table{
+    width: 80%;
+    border: 2px solid azure;
+    margin: 30px auto;
+    border-collapse: collapse;
+}
+table td, table th{
+    border: 2px solid #9bc1bc;
+}
+table th{
+	background-color: beige;
+	color: #4D7D77;
+	height: 50px;
+	font-family: "BebasNeue Regular";
+}
+table td{
+	background-color: azure;
+	color: #416964;
+	height: 30px;
+	padding: 10px;
+	font-family: CaviarDreams;
+}
+
+.tabla_dos{
+    width: 60%;
+    background-color: #9bc1bc;
+}
+.tabla_dos td{
+    background-color:cadetblue;
+    color:azure;
+    font-weight: bold;
+}
+.tabla_dos th,#tabla_ td{
+    border: 2px solid; 
+}
+tr:hover{
+    /*background-color: beige;*/
+}
+.tabla_dos tr td:hover{
+    background-color: beige;
+    color: indigo;
+}
+#tabla_tres{
+    
+}
+#tabla_tres tr:nth-child(even){
+    background-color: darkslateblue;
+    color: beige; 
+}
+#tabla_tres tr:nth-child(odd){
+    background-color: wheat;
+    color: seagreen;
+}
+.imagen_perfil{
+    width: 30%;
+    height: auto;
+}
+body nav ul {
+	list-style-type: none;
+}
+nav ul li {
+	display: inline-block;
+	color: #0F016C;
+}
+body label {
+	color: #000000;
+}
+main section form {
+	width: 45%;
+	padding: 50px;
+	margin: 0 auto;
+	background-color: #85B3AD;
+}
+section form label {
+	font-family: CaviarDreams;
+	display: block;
+	text-align: left;
+	height: 18px;
+	color: #FFFFFF;
+	font-size: medium;
+	font-weight: 400;
+	font-style: normal;
+}
+section form input[type=submit] {
+	width: 23%;
+	height: 4%;
+	background-color: #8DCBB2;
+	color: #F0F5F5;
+	font-family: CaviarDreams;
+	border-width: 2px;
+}
+ul li a {
+}
+
+input[type=text]   ,input[type=email]{
+	width: 100%;
+	display: block;
+	background-color: #F0FFFF;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	color: #2C4844;
+}
+.img_galeria {
+	width: 100%;
+	border: none;
+	height: auto;
+}
+#section_contacto {
+	background-color: transparent;
+
+}
+
+.tabla_galeria {
+	border: none;
+}
+.tabla_galeria td {
+	border: none;
+}
+
+body h1 {
+	color: #FFFCFC;
+	background-color: #5B928B;
+	font-family: "BebasNeue Regular";
+}
+body hearder h1 {
+	color: #000000;
+}
+
+
+.tabla_galeria td {
+	border: none;
+
+
+
+}
+header main form {
+	color: #51837C;
+	width: 2%;
+	background-color: #9BC1BC;
+	text-align: center;
+}
+main section form {
+	padding: 50 px;
+	margin: o auto;
+	width: 50%;
+}
+#fname {
+}
+#sec {
+}
+body footer h6 {
+	font-family: CaviarDreams;
+}
+section form p {
+	font-family: CaviarDreams;
+}
+body footer h5 {
+	font-family: CaviarDreams;
+}
+section form input {
+	background-color: #34534F;
+	background-image: url(url);
+}
+section div a {
+	font-family: "BebasNeue Regular";
+}
+body footer {
+	font-family: CaviarDreams;
+}
+main section iframe {
+	background-color: #5B928B;
+}
+.animate__backInLeft-3 {
+}
